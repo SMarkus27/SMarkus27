@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SMarkus27&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMarkus27&langs_count=10&count_private=false&layout=compact&theme=dark)
+<b> :chart_with_upwards_trend: Estatísticas</b>:
 
+<a href="https://github.com/SMarkus27">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SMarkus27&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMarkus27&layout=compact&langs_count=8&theme=dark"/>
+</a>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
