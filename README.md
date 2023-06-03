@@ -1,6 +1,6 @@
 ## Welcome!! My name is Marcus Vinicius! 🔥
 
-- 🔭 I’m currently working at `Lionx `!
+- 🔭 I’m currently working at `PicPay `!
 - 💻 Python Backend Developer Jr
 - 🎓 Graduating in Electronic Engineer at &nbsp;&nbsp;<a href="https://landing.usjt.br/" target="_blank"><img align="center" alt="São Judas Logo" height="30" src="https://landing.usjt.br/assets/img/logo-usjt.svg" /></a>
 - Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!
